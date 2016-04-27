@@ -31,4 +31,4 @@ endif ()
 
 add_subdirectory(src)
 
-add_subdirectory(unit_test)
+#add_subdirectory(unit_test)

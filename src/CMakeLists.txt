@@ -26,6 +26,7 @@ endif()
 # ----------------------------------------------------------------------------
 
 # Add include directories.
+include(SeqAnBuildSystem)
 include_directories (${SEQAN_INCLUDE_DIRS})
 
 # Add definitions set by find_package (SeqAn).
